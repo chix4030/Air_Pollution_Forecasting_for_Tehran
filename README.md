@@ -5,4 +5,4 @@ Also, you can look at the data files. And you can use my trained model's file, w
 
 This repository has been created for forcasting the air pollution in the metropolis of Tehran.
 
-(Hamid Pour Mohammad)
+(Hamid Pourmohammad)
